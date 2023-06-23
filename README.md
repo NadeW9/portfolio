@@ -13,7 +13,12 @@ Code Decriptions ================
   > A training model for machine learning.
   > Computer vision is used to differentiate/identify various types of clothing from a given data set.
   > Specifically ['tops', 'trousers', 'outerwear', 'dresses', 'skirts'].
-  > Team project dated 2020 || high school competition.
+  > Team project dated 2020 || high school
 
 2) ARDUINO (C&C++)
-- 
+- EllipseControlMain.ino
+  > Stepper motor control using TMC5160 driver.
+  > Emulate a real hand tremor at selected frequency intervals.
+  > Ellipsoidal velocity pattern, with maximum at centre.
+  > Internship project 2022 || university
+- ASDASd
