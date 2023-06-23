@@ -21,4 +21,8 @@ Code Decriptions ================
   > Emulate a real hand tremor at selected frequency intervals.
   > Ellipsoidal velocity pattern, with maximum at centre.
   > Internship project 2022 || university
-- ASDASd
+- BT_RemoteXY.ino
+  > DIY personal project to control LEDs of a custom-made acrylic whiteboard.
+  > Uses Bluetooth feature of ESP32 microcontroller to communicate with an app on my smartphone.
+  > Used an open source interfacer RemoteXY to design the app.
+- 
