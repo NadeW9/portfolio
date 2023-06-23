@@ -30,5 +30,6 @@ Code Decriptions ================
   > Proportional and integral speed control for BLDC motors.
   > For a novel, independently designed robot module (MBOT_One) driven with 2 brushless DC motors.
   > Speed and steps control implemented with internal hall sensors, and feedback is provided by external absolute encoders.
-  > Engineering research project 2019 || high school
-- b) PWM_test
+  > Engineering research project for SSEF competition 2019 || high school
+- b) PWM_actual_test.ino
+  > Testing of PWM values and relations using a potentiometer for input voltage control.
